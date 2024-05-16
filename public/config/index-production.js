@@ -1,7 +1,7 @@
 window.ENV = 'production'
 var productionConfig = {
-  baseUrl: 'https://www.mzdata.top/bigScreenServer',
-  fileUrlPrefix: 'https://www.mzdata.top/bigScreenServer' + '/static'
+  baseUrl: 'https://dashboard.timestone.mzdata.top/bigScreenServer',
+  fileUrlPrefix: 'https://dashboard.timestone.mzdata.top/bigScreenServer' + '/static'
 
 }
 // 必须的
